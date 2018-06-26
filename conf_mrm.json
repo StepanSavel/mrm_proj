@@ -1,0 +1,9 @@
+{
+  "trash_p" : "/home/stepan/pyl/MRMtrash",
+  "log" : "/home/stepan/pyl/MRM.log",
+  "policy" : "time",
+  "silent" : "False",
+  "dry" : "False",
+  "day" : 7,
+  "size" : 1000000
+}

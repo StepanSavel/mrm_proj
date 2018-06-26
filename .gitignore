@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+.idea
+dist
+build
+env
+rmpy.egg-info
