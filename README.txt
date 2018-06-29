@@ -13,7 +13,7 @@ mrm -et: empty trash
 mrm -s: silent mode
 mrm -d: dry\run mode
 mrm --size: policy:size
-mrm --day: policy:size
+mrm --day: policy:day
 mrm --conf: load own configuration file
 mrm -c: confirm mod
 
